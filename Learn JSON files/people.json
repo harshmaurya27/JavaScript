@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ironman",
+    "age": 30,
+    "isEmployed": true
+  },
+  {
+    "name": "Spiderman",
+    "age": 30,
+    "isEmployed": false
+  },
+  {
+    "name": "thor",
+    "age": 35,
+    "isEmployed": true
+  },
+  {
+    "name": "Sandy",
+    "age": 16,
+    "isEmployed": false
+  }
+]
